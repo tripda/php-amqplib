@@ -5,10 +5,7 @@
     "keywords": ["rabbitmq", "message", "queue"],
     "homepage": "https://github.com/tripda/php-amqplib/",
     "authors": [
-        {
-            "name" : "Alvaro Videla"
-        },
-        {
+       {
             "name": "Tripda IT Team"
         }
     ],
