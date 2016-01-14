@@ -7,6 +7,8 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
+**This fork has the Heartbeat feature and its life is until the official repository approves the Heartbeat's pull request**
+
 This library is a _pure PHP_ implementation of the AMQP protocol. It's been tested against [RabbitMQ](http://www.rabbitmq.com/).
 
 **Requirements: PHP 5.3** due to the use of `namespaces`.
